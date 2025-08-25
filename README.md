@@ -1,6 +1,7 @@
 # Amazon-Prime-video-Dashboard
 
-<img width="1917" height="987" alt="image" src="https://github.com/user-attachments/assets/6b39b02f-4344-43e5-9453-28fc49921454" />
+<img width="1915" height="1018" alt="image" src="https://github.com/user-attachments/assets/6dd63e09-47ab-4d20-b3a6-9604c49a9bf3" />
+
 
 📊 Amazon Prime Video Dashboard is a Power BI project analyzing Prime’s movies &amp; TV shows. It provides insights on content distribution by country, genres, ratings, release trends, and durations with interactive filters. Useful for OTT analysis, business insights, and learning data visualization.
 
